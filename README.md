@@ -38,6 +38,7 @@ AbleSpace-QA-Take-Home-Assignment/
     │   └── Adding second Objective existing file.png
     └── videos/
         ├── BUG-01-AccomTracker-Authentication-Failed.mp4
+            BUG-02-IEP-System-Blank-Page.mp4
         └── BUG-03-Student-2-Displays-Student-1.mp4
 ```
 
@@ -136,8 +137,7 @@ This screenshot shows the process of adding a second objective.
 
 Both objectives appeared separately after saving and reopening the newly created goal.
 
-<img width="1920" height="966" alt="Goal updated with two obj" src="https://github.com/user-attachments/assets/3f2033e9-a258-4677-b595-61f7aafacad9" />
-
+<img width="1920" height="966" alt="Image" src="https://github.com/user-attachments/assets/18441b68-8329-47de-b5b4-b96ef07ade69" />
 
 ### 7.6 Adding an Objective to an Existing Goal
 
@@ -147,7 +147,7 @@ Both objectives appeared separately after saving and reopening the newly created
 
 This screenshot documents the attempt to add an objective to a goal that already existed.
 
-<img width="1920" height="967" alt="Image" src="https://github.com/user-attachments/assets/d2b9ce28-f8e4-4e84-8663-cc64f4b2bc38" />
+<img width="1920" height="965" alt="Image" src="https://github.com/user-attachments/assets/54ce0b67-efb6-4a50-8128-d4b9b1cad740" />
 
 ### 7.7 Adding a Second Objective to an Existing Goal
 
@@ -156,7 +156,7 @@ This screenshot documents the attempt to add an objective to a goal that already
 
 This screenshot supports the investigation of objective management on an existing goal.
 
-<img width="1920" height="960" alt="Image" src="https://github.com/user-attachments/assets/56491064-c894-4879-8ba1-2dc6d9cddfbe" />
+<img width="1920" height="960" alt="Image" src="https://github.com/user-attachments/assets/1860dffb-df9b-477a-8839-6096f80fb081" />
 
 ### 7.8 Existing Goal Update Confirmation
 
@@ -165,7 +165,7 @@ This screenshot supports the investigation of objective management on an existin
 
 This screenshot documents the update confirmation observed during the existing-goal workflow.
 
-<img width="1920" height="968" alt="Image" src="https://github.com/user-attachments/assets/221d8d7f-849f-4845-950c-74026430495a" />
+<img width="1920" height="967" alt="Image" src="https://github.com/user-attachments/assets/cae03714-d9bb-45e6-b14a-a4593145fec0" />
 
 ### 7.9 Data Entry in a Created Goal
 
@@ -175,7 +175,7 @@ This screenshot documents the update confirmation observed during the existing-g
 
 This screenshot demonstrates data entry for a created goal and supports the test of recording and displaying goal data.
 
-<img width="1920" height="970" alt="Image" src="https://github.com/user-attachments/assets/50455449-b047-4754-bd50-a9ca664547bb" />
+<img width="1920" height="970" alt="Image" src="https://github.com/user-attachments/assets/2e5d7d6c-1196-4a90-a964-99af619445fe" />
 
 ### 7.10 Changing the Chart Type
 
@@ -184,7 +184,8 @@ This screenshot demonstrates data entry for a created goal and supports the test
 
 This screenshot documents the available graph options and the chart-type selection workflow.
 
-<img width="1920" height="968" alt="Image" src="https://github.com/user-attachments/assets/e29677f7-a827-49cf-a886-c88588899bf6" />
+<img width="1920" height="968" alt="Testing by changing chart type" src="https://github.com/user-attachments/assets/10405fcf-f17e-4b96-8dcb-7a007a3bac27" />
+
 
 ## 8. Bug Reports and Screen Recording Evidence
 
