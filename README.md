@@ -100,7 +100,7 @@ The screenshots below document the observed application behaviour during functio
 
 This screenshot documents the goal creation workflow using a description without a title.
 
-<img width="1920" height="966" alt="Image" src="https://github.com/user-attachments/assets/73f1c8df-c06b-4a53-9a4f-7af4ebe2f1c7" />
+<img width="1920" height="974" alt="Image" src="https://github.com/user-attachments/assets/2eb26879-7178-44a6-acad-1eb2580b0e8e" />
 
 ### 7.2 Goal Not Visible Immediately After Saving
 
@@ -109,7 +109,7 @@ This screenshot documents the goal creation workflow using a description without
 
 The goal did not appear in the list immediately after saving and became visible after refreshing the page.
 
-<img width="1920" height="974" alt="Image" src="https://github.com/user-attachments/assets/2eb26879-7178-44a6-acad-1eb2580b0e8e" />
+<img width="1920" height="966" alt="Image" src="https://github.com/user-attachments/assets/73f1c8df-c06b-4a53-9a4f-7af4ebe2f1c7" />
 
 ### 7.3 Adding an Objective
 
