@@ -104,13 +104,12 @@ This screenshot documents the goal creation workflow using a description without
 
 ### 7.2 Goal Not Visible Immediately After Saving
 
-**Screenshot:** `Goal successful creation without goal tile.png`
 
 **Add the screenshot below this heading.**
 
 The goal did not appear in the list immediately after saving and became visible after refreshing the page.
 
-![Goal visibility after creation](Evidence/screenshots/Goal%20successful%20creation%20without%20goal%20tile.png)
+<img width="1920" height="974" alt="Image" src="https://github.com/user-attachments/assets/2eb26879-7178-44a6-acad-1eb2580b0e8e" />
 
 ### 7.3 Adding an Objective
 
@@ -124,13 +123,12 @@ This screenshot documents the workflow for adding an objective to a goal.
 
 ### 7.4 Adding a Second Objective
 
-**Screenshot:** `Adding second Objective.png`
 
 **Add the screenshot below this heading.**
 
 This screenshot shows the process of adding a second objective.
 
-![Adding a second objective](Evidence/screenshots/Adding%20second%20Objective.png)
+<img width="1920" height="972" alt="Image" src="https://github.com/user-attachments/assets/b71bb349-5318-4156-98fc-48e1bb37c41f" />
 
 ### 7.5 Goal Updated with Two Objectives
 
