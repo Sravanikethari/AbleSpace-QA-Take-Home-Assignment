@@ -113,13 +113,12 @@ The goal did not appear in the list immediately after saving and became visible 
 
 ### 7.3 Adding an Objective
 
-**Screenshot:** `Adding Objective.png`
 
 **Add the screenshot below this heading.**
 
 This screenshot documents the workflow for adding an objective to a goal.
 
-![Adding an objective](Evidence/screenshots/Adding%20Objective.png)
+<img width="1920" height="972" alt="Image" src="https://github.com/user-attachments/assets/b71bb349-5318-4156-98fc-48e1bb37c41f" />
 
 ### 7.4 Adding a Second Objective
 
@@ -128,67 +127,64 @@ This screenshot documents the workflow for adding an objective to a goal.
 
 This screenshot shows the process of adding a second objective.
 
-<img width="1920" height="972" alt="Image" src="https://github.com/user-attachments/assets/b71bb349-5318-4156-98fc-48e1bb37c41f" />
+<img width="1920" height="955" alt="Image" src="https://github.com/user-attachments/assets/341679c1-249b-4ecf-abb4-86543b3ae6cf" />
 
 ### 7.5 Goal Updated with Two Objectives
 
-**Screenshot:** `Goal updated with two obj.png`
 
 **Add the screenshot below this heading.**
 
 Both objectives appeared separately after saving and reopening the newly created goal.
 
-![Goal updated with two objectives](Evidence/screenshots/Goal%20updated%20with%20two%20obj.png)
+<img width="1920" height="966" alt="Goal updated with two obj" src="https://github.com/user-attachments/assets/3f2033e9-a258-4677-b595-61f7aafacad9" />
+
 
 ### 7.6 Adding an Objective to an Existing Goal
 
-**Screenshot:** `Adding one objective for existing file.png`
+
 
 **Add the screenshot below this heading.**
 
 This screenshot documents the attempt to add an objective to a goal that already existed.
 
-![Adding an objective to an existing goal](Evidence/screenshots/Adding%20one%20objective%20for%20existing%20file.png)
+<img width="1920" height="967" alt="Image" src="https://github.com/user-attachments/assets/d2b9ce28-f8e4-4e84-8663-cc64f4b2bc38" />
 
 ### 7.7 Adding a Second Objective to an Existing Goal
 
-**Screenshot:** `Adding second Objective existing file.png`
 
 **Add the screenshot below this heading.**
 
 This screenshot supports the investigation of objective management on an existing goal.
 
-![Adding a second objective to an existing goal](Evidence/screenshots/Adding%20second%20Objective%20existing%20file.png)
+<img width="1920" height="960" alt="Image" src="https://github.com/user-attachments/assets/56491064-c894-4879-8ba1-2dc6d9cddfbe" />
 
 ### 7.8 Existing Goal Update Confirmation
 
-**Screenshot:** `Existing file added objective update successfull.png`
 
 **Add the screenshot below this heading.**
 
 This screenshot documents the update confirmation observed during the existing-goal workflow.
 
-![Existing goal update confirmation](Evidence/screenshots/Existing%20file%20added%20objective%20update%20successfull.png)
+<img width="1920" height="968" alt="Image" src="https://github.com/user-attachments/assets/221d8d7f-849f-4845-950c-74026430495a" />
 
 ### 7.9 Data Entry in a Created Goal
 
-**Screenshot:** `Testing by adding data in created goal.png`
+
 
 **Add the screenshot below this heading.**
 
 This screenshot demonstrates data entry for a created goal and supports the test of recording and displaying goal data.
 
-![Data entry in a created goal](Evidence/screenshots/Testing%20by%20adding%20data%20in%20created%20goal.png)
+<img width="1920" height="970" alt="Image" src="https://github.com/user-attachments/assets/50455449-b047-4754-bd50-a9ca664547bb" />
 
 ### 7.10 Changing the Chart Type
 
-**Screenshot:** `Changing chart type.png`
 
 **Add the screenshot below this heading.**
 
 This screenshot documents the available graph options and the chart-type selection workflow.
 
-![Changing chart type](Evidence/screenshots/Changing%20chart%20type.png)
+<img width="1920" height="968" alt="Image" src="https://github.com/user-attachments/assets/e29677f7-a827-49cf-a886-c88588899bf6" />
 
 ## 8. Bug Reports and Screen Recording Evidence
 
