@@ -90,7 +90,7 @@ A total of eight detailed test cases were executed.
 
 ## 7. Screenshots and Test Evidence
 
-The screenshots below document the observed application behaviour during functional and exploratory testing. Each screenshot should be stored in `Evidence/screenshots/` and displayed directly under its relevant heading.
+The screenshots below document the observed application behaviour during functional and exploratory testing. displayed directly under its relevant heading.
 
 ### 7.1 Goal Creation Without a Title
 
@@ -100,7 +100,8 @@ The screenshots below document the observed application behaviour during functio
 
 This screenshot documents the goal creation workflow using a description without a title.
 
-![Goal creation without title](Evidence/screenshots/New%20goal%20creation%20without%20goal%20title.png)
+![Goal creation without title](<img width="1920" height="966" alt="New goal creation without goal title" src="https://github.com/user-attachments/assets/feb9ec7f-e573-4182-9838-7cf670a00ea5" />
+)
 
 ### 7.2 Goal Not Visible Immediately After Saving
 
