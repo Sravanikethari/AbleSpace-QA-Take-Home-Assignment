@@ -100,8 +100,7 @@ The screenshots below document the observed application behaviour during functio
 
 This screenshot documents the goal creation workflow using a description without a title.
 
-![Goal creation without title](<img width="1920" height="966" alt="New goal creation without goal title" src="https://github.com/user-attachments/assets/feb9ec7f-e573-4182-9838-7cf670a00ea5" />
-)
+<img width="1920" height="966" alt="Image" src="https://github.com/user-attachments/assets/73f1c8df-c06b-4a53-9a4f-7af4ebe2f1c7" />
 
 ### 7.2 Goal Not Visible Immediately After Saving
 
